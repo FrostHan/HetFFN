@@ -11,14 +11,14 @@ Codes for paper "Lamina-specific neuronal properties promote robust, stable sign
 - matplotlib==2.0.2
 
 
-- To generate the data for Fig. 1(C) and Appendix Fig. A1
+### To generate the data for Fig. 1(C) and Appendix Fig. A1
 
 ```
 python Single_neuron_threshold.py
 ```
 
 
-- To generate the data for Fig. 2 and Appendix Fig. A4
+### To generate the data for Fig. 2 and Appendix Fig. A4
 
 ```
 python Jeanne-Wilson-2015-DEsynapse.py
@@ -26,14 +26,14 @@ python Jeanne-Wilson-2015-DEsynapse-OUinput.py
 ```
 
 
-- To generate the data for Fig. 3, 4 Appendix Fig. A2, A5
+### To generate the data for Fig. 3, 4 Appendix Fig. A2, A5
 
 ```
 python Deep-FFN.py
 python Deep-FFN-OUinput.py
 ```
 
-- To generate the data for Appendix Fig. A3
+### To generate the data for Appendix Fig. A3
 
 ```
 python Deep-FFN-Inh.py
